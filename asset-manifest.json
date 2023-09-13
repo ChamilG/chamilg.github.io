@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6c8feb6.css",
-    "main.js": "/static/js/main.e3311c63.js",
+    "main.css": "/static/css/main.8206dca1.css",
+    "main.js": "/static/js/main.ab87cdff.js",
+    "static/media/codinganimation.gif": "/static/media/codinganimation.f81211355e982eebd32e.gif",
+    "static/media/guitarsound.mp3": "/static/media/guitarsound.3d37d4ba9ef8762234fe.mp3",
     "static/media/ChamilGamageCV.pdf": "/static/media/ChamilGamageCV.a9cd6144cb67508b6bc9.pdf",
     "static/media/mypic.png": "/static/media/mypic.0921f89a151fc643bc31.png",
-    "static/media/coding.png": "/static/media/coding.c9d27b18d4bbefa4a44b.png",
-    "static/media/football.jpg": "/static/media/football.168ebcbc0df4db43f33b.jpg",
+    "static/media/net.png": "/static/media/net.dfd8943e9202d7273f6b.png",
+    "static/media/football.png": "/static/media/football.c6bddb392eeaefa1438d.png",
+    "static/media/LMS.png": "/static/media/LMS.79fdc9380cb8b2741192.png",
     "static/media/Logo.png": "/static/media/Logo.87abe50a0974a7570585.png",
+    "static/media/bankapp.avif": "/static/media/bankapp.c5bed2e3f9a8176aaac9.avif",
+    "static/media/emailClient.jpeg": "/static/media/emailClient.77ab1166708bca6897c8.jpeg",
+    "static/media/ChatApp.webp": "/static/media/ChatApp.23df22c3f14795541f5c.webp",
     "index.html": "/index.html",
-    "main.f6c8feb6.css.map": "/static/css/main.f6c8feb6.css.map",
-    "main.e3311c63.js.map": "/static/js/main.e3311c63.js.map"
+    "main.8206dca1.css.map": "/static/css/main.8206dca1.css.map",
+    "main.ab87cdff.js.map": "/static/js/main.ab87cdff.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6c8feb6.css",
-    "static/js/main.e3311c63.js"
+    "static/css/main.8206dca1.css",
+    "static/js/main.ab87cdff.js"
   ]
 }
