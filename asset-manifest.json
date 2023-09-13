@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8206dca1.css",
-    "main.js": "/static/js/main.ab87cdff.js",
+    "main.css": "/static/css/main.35583599.css",
+    "main.js": "/static/js/main.cdbe3415.js",
     "static/media/codinganimation.gif": "/static/media/codinganimation.f81211355e982eebd32e.gif",
     "static/media/guitarsound.mp3": "/static/media/guitarsound.3d37d4ba9ef8762234fe.mp3",
     "static/media/ChamilGamageCV.pdf": "/static/media/ChamilGamageCV.a9cd6144cb67508b6bc9.pdf",
@@ -14,11 +14,11 @@
     "static/media/emailClient.jpeg": "/static/media/emailClient.77ab1166708bca6897c8.jpeg",
     "static/media/ChatApp.webp": "/static/media/ChatApp.23df22c3f14795541f5c.webp",
     "index.html": "/index.html",
-    "main.8206dca1.css.map": "/static/css/main.8206dca1.css.map",
-    "main.ab87cdff.js.map": "/static/js/main.ab87cdff.js.map"
+    "main.35583599.css.map": "/static/css/main.35583599.css.map",
+    "main.cdbe3415.js.map": "/static/js/main.cdbe3415.js.map"
   },
   "entrypoints": [
-    "static/css/main.8206dca1.css",
-    "static/js/main.ab87cdff.js"
+    "static/css/main.35583599.css",
+    "static/js/main.cdbe3415.js"
   ]
 }
