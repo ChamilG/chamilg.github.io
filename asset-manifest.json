@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b6714429.css",
-    "main.js": "/static/js/main.cdbe3415.js",
+    "main.js": "/static/js/main.9a5ad399.js",
     "static/media/codinganimation.gif": "/static/media/codinganimation.f81211355e982eebd32e.gif",
     "static/media/guitarsound.mp3": "/static/media/guitarsound.3d37d4ba9ef8762234fe.mp3",
     "static/media/ChamilGamageCV.pdf": "/static/media/ChamilGamageCV.a9cd6144cb67508b6bc9.pdf",
@@ -15,10 +15,10 @@
     "static/media/ChatApp.webp": "/static/media/ChatApp.23df22c3f14795541f5c.webp",
     "index.html": "/index.html",
     "main.b6714429.css.map": "/static/css/main.b6714429.css.map",
-    "main.cdbe3415.js.map": "/static/js/main.cdbe3415.js.map"
+    "main.9a5ad399.js.map": "/static/js/main.9a5ad399.js.map"
   },
   "entrypoints": [
     "static/css/main.b6714429.css",
-    "static/js/main.cdbe3415.js"
+    "static/js/main.9a5ad399.js"
   ]
 }
